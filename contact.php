@@ -19,7 +19,6 @@
 				<li><a href="contact.php">ติดต่อ</li>
 				</ul><p>
 				<?php include "login_form.php";?>
-			</td>
-        </tr>
+			</td>safsfsafasff
     </table>
 				baasdsdad
